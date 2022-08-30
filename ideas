@@ -1,0 +1,7 @@
+FPGrowth Code using CUDA and C++ 
+
+No deconstructor for Tree Node. Once code is optimized for speed, will work on memory safety.
+
+Potential Optimizations
+- Parallel Tree construction using advanced atomic locks
+- look into shared memory and optimization using blocks
